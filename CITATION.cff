@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or chemistry formulation in your research, please cite it as below."
+authors:
+  - family-names: "Singh"
+    given-names: "Abhishek"
+    orcid: "https://orcid.org/0009-0004-6913-096X" 
+  - family-names: "Gemini"
+    given-names: "AI Collaborator"
+title: "Co-Optimized Solid-State Sodium NASICON Battery Suite"
+version: 1.0.0
+doi: 10.5281/zenodo.tbd 
+date-released: 2026-10-03
+url: "https://github.com/Abhishek1033ubuntu/solid-state-sodium-battery-suite"
+repository-code: "https://github.com/Abhishek1033ubuntu/solid-state-sodium-battery-suite"
+keywords:
+  - "sodium-ion-battery"
+  - "solid-state-battery"
+  - "nasicon"
+  - "thermal-runaway-immunity"
+  - "materials-discovery"
+  - "multi-physics-simulation"
+license: MIT
