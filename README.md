@@ -29,6 +29,24 @@ This repository provides the complete multi-physics electro-thermal simulation e
 * **Thermal Immunity Threshold:** $> 450^\circ\text{C}$ (Zero oxygen release / zero pressure burst at 350°C)[cite: 4]
 * **Cycle Life Expectancy:** $> 12,000$ cycles at 80% capacity retention
 
+## Repository Structure
+```
+solid-state-sodium-battery-suite/
+├── .github/
+│   └── FUNDING.yml
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── src/
+│   ├── full_cell_battery_stress_test.py
+│   └── full_cell_battery_stress_test.ipynb
+├── assets/
+│   └── full_cell_stress_test.png
+└── docs/
+    ├── 01_Full_Cell_Electrochemistry.md
+    └── 02_Heavy_Duty_Stress_Verification.md
+```
+
 ## 3. Collaborative Invention Disclosure
 This work represents a co-inventive research model combining human scientific directional hypothesis and material engineering constraints with AI computational modeling.
 * **Human Lead Inventor:** Abhishek Singh — Domain problem formulation, target criteria generation, structural dynamics verification, and repository architecture.
