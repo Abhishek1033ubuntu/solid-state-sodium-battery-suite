@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "solid-state-sodium-battery-suite"
+version = "1.0.0"
+authors = [
+  { name="Abhishek Singh" },
+  { name="Gemini AI Collaborator" }
+]
+description = "Multi-physics electro-thermal simulation & high-voltage solid-state sodium battery chemistry discovery suite."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Physics",
+    "Topic :: Scientific/Engineering :: Chemistry",
+]
+dependencies = [
+    "numpy>=1.21.0",
+    "matplotlib>=3.4.0",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/Abhishek1033ubuntu/solid-state-sodium-battery-suite"
+"Bug Tracker" = "https://github.com/Abhishek1033ubuntu/solid-state-sodium-battery-suite/issues"
