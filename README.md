@@ -38,6 +38,7 @@ solid-state-sodium-battery-suite/
 ├── LICENSE
 ├── requirements.txt
 ├── src/
+│   ├── duty_cycle_lifetime_test.py
 │   ├── full_cell_battery_stress_test.py
 │   └── full_cell_battery_stress_test.ipynb
 ├── assets/
