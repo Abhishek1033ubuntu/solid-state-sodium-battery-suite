@@ -19,7 +19,7 @@
 **License:** MIT  
 
 ## 1. Abstract
-This repository provides the complete multi-physics electro-thermal simulation engine and full-cell chemistry specification for a high-voltage, solid-state sodium battery $\text{Na}_{3.2}\text{V}_{1.8}\text{Zr}_{0.2}(\text{PO}_4)_2\text{F}_2$. By co-optimizing a fluorinated NASICON cathode, a halide/sulfide solid electrolyte, and a copper-free 3D MXene anode, this system achieves a **745.5 Wh/kg pack specific energy** (+18.0% over NMC-811) with total immunity to thermal runaway up to 350°C[cite: 4].
+This repository provides the complete multi-physics electro-thermal simulation engine and full-cell chemistry specification for a high-voltage, solid-state sodium battery (Na<sub>3.2</sub>V<sub>1.8</sub>Zr<sub>0.2</sub>(PO<sub>4</sub>)<sub>2</sub>F<sub>2</sub>). By co-optimizing a fluorinated NASICON cathode, a halide/sulfide solid electrolyte, and a copper-free 3D MXene anode, this system achieves a **745.5 Wh/kg pack specific energy** (+18.0% over NMC-811) with total immunity to thermal runaway up to 350°C.
 
 ![Full Cell Performance and Thermal Stress Benchmarks](assets/full_cell_stress_test.png)
 
