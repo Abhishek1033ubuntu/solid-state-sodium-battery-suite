@@ -16,7 +16,7 @@
 
 **Lead Inventor & Author:** Abhishek Singh | UIDAI: 9414 9122 9013  
 **AI Architectural Collaborator:** Gemini  
-**Associated Core:** `subatomic-materials-suite`  
+**Associated Core:** [`subatomic-materials-suite`](https://github.com/Abhishek1033ubuntu/subatomic-materials-suite)    
 **License:** MIT  
 
 ## 1. Abstract
