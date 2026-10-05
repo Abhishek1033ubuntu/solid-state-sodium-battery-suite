@@ -8,7 +8,10 @@
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-brightgreen.svg)](https://www.python.org/downloads/)
 [![Physics Core](https://img.shields.io/badge/Core-subatomic--materials--suite-orange.svg)](https://github.com/Abhishek1033ubuntu/subatomic-materials-suite)
 [![Status](https://img.shields.io/badge/Status-Stress%20Tested%20%26%20Passed-success.svg)](#) 
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23118718-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23118718)  
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23118718-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23118718) 
+<!-- Domain & Focus -->
+[![Domain](https://img.shields.io/badge/Domain-Electrochemistry-blueviolet.svg)]()
+[![Focus](https://img.shields.io/badge/Focus-Solid--State%20Sodium%20Batteries-emerald.svg)]()  
 
 ---
 
